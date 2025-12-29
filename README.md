@@ -1,16 +1,16 @@
 <!-- HERO SECTION -->
-<h1>👋 Hey, I’m Krushnapalsinh</h1>
+<h1 align="center">👋 Hey, I’m Krushnapalsinh</h1>
 
-<p>
+<p align="center">
   <b>Automation Engineer • Business Software Builder • Problem Solver</b>
 </p>
 
-<p>
- <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Building+Real+World+Software;Automation+for+Business+%26+Schools;Child+Safety+Focused+Systems;Node.js+%7C+APIs+%7C+WhatsApp+Automation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Building+Real+World+Software;Automation+for+Business+%26+Schools;Child+Safety+Focused+Systems;Node.js+%7C+APIs+%7C+WhatsApp+Automation" />
 
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Automation-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Building%20Daily-orange?style=flat-square" />
@@ -19,9 +19,9 @@
 ---
 
 <!-- WHAT I BUILD -->
-<h2>🧠 What I Build</h2>
+<h2 align="center">🧠 What I Build</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -47,9 +47,9 @@
 ---
 
 <!-- COLLAB -->
-<h2>🤝 Open for Collaboration</h2>
+<h2 align="center">🤝 Open for Collaboration</h2>
 
-<p>
+<p align="center">
 ✔ Business & School Automation<br>
 ✔ Child Safety & Monitoring Systems<br>
 ✔ WhatsApp API & Messaging Automation<br>
@@ -59,9 +59,9 @@
 ---
 
 <!-- LEARNING -->
-<h2>🌱 Currently Leveling Up</h2>
+<h2 align="center">🌱 Currently Leveling Up</h2>
 
-<p>
+<p align="center">
 ⚙️ Advanced Node.js & Background Jobs<br>
 🔗 API Architecture & Integrations<br>
 📱 Android APK + Backend Bridge Concepts<br>
@@ -71,9 +71,9 @@
 ---
 
 <!-- ASK ME -->
-<h2>💬 Ask Me About</h2>
+<h2 align="center">💬 Ask Me About</h2>
 
-<p>
+<p align="center">
 Inventory Systems • Billing Software • Automation Ideas<br>
 WhatsApp API • Business Tools • Real-World Deployments
 </p>
@@ -81,9 +81,9 @@ WhatsApp API • Business Tools • Real-World Deployments
 ---
 
 <!-- FUN FACT -->
-<h2>⚡ Builder Philosophy</h2>
+<h2 align="center">⚡ Builder Philosophy</h2>
 
-<p>
+<p align="center">
 <i>“I don’t build projects to show code.<br>
 I build systems that actually get used.”</i>
 </p>
@@ -91,9 +91,9 @@ I build systems that actually get used.”</i>
 ---
 
 <!-- CONNECT -->
-<h2>🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="https://instagram.com/p_krushnapalsinh74">
     <img src="https://img.shields.io/badge/Instagram-Connect-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
@@ -105,44 +105,44 @@ I build systems that actually get used.”</i>
 ---
 
 <!-- TECH STACK -->
-<h2>🛠 Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,java,kotlin,python,php,flutter,dart,nextjs,postgres,sqlite,firebase&perline=6" />
 </p>
 
 ---
 
 <!-- STATS -->
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krushnapalsinh74&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnapalsinh74&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapalsinh74&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 <!-- TROPHIES -->
-<h2>🏆 Achievements</h2>
+<h2 align="center">🏆 Achievements</h2>
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krushnapalsinh74&theme=matrix&margin-w=15" />
 </p>
 
 ---
 
-<p>
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=krushnapalsinh74&icon=5&color=6" />
 </p>
