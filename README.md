@@ -62,7 +62,7 @@
 <!-- LEARNING -->
 <h2>🌱 Currently Leveling Up</h2>
 
-<p align="center">
+<p>
 ⚙️ Advanced Node.js & Background Jobs ....................⚙️ Mastering Node.js & Background Processing<br>
 🔗 API Architecture & Integrations ....................🔗 Designing APIs & Seamless Integrations<br>
 📱 Android APK + Backend Bridge Concepts ....................📱 Android APK Development + Backend Sync<br>
