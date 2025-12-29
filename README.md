@@ -60,23 +60,27 @@
 ---
 
 <!-- LEARNING -->
-<h2 align="center">🌱 Currently Leveling Up</h2>
+<h2>🌱 Currently Leveling Up</h2>
 
 <p align="center">
-⚙️ Advanced Node.js & Background Jobs<br>
-🔗 API Architecture & Integrations<br>
-📱 Android APK + Backend Bridge Concepts<br>
-🔐 Secure & Ethical System Design
+⚙️ Advanced Node.js & Background Jobs ....................⚙️ Mastering Node.js & Background Processing<br>
+🔗 API Architecture & Integrations ....................🔗 Designing APIs & Seamless Integrations<br>
+📱 Android APK + Backend Bridge Concepts ....................📱 Android APK Development + Backend Sync<br>
+🔐 Secure & Ethical System Design ....................🔐 Building Secure & Ethical Systems<br>
 </p>
 
 ---
 
 <!-- ASK ME -->
-<h2 align="center">💬 Ask Me About</h2>
+<h2>💬 Ask Me About</h2>
 
 <p align="center">
-Inventory Systems • Billing Software • Automation Ideas<br>
-WhatsApp API • Business Tools • Real-World Deployments
+Inventory Systems • Billing Software • Automation Ideas • Inventory & Billing Systems • 
+Business Automation • Solutions WhatsApp API Integrations • Practical Software Deployments<br>
+WhatsApp API • Business Tools • Real-World Deployments • Smart Inventory & Billing Tools
+• Automation & Productivity Hacks
+• WhatsApp API Solutions
+• Hands-On Project Deployments<br>
 </p>
 
 ---
