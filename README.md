@@ -1,147 +1,27 @@
-<!-- HERO SECTION -->
-<h1 align="center">👋 Hey, I’m Krushnapalsinh</h1>
+# 💫 About Me:
+🔭 I’m currently working on<br>- Inventory Management & Billing System for small businesses<br>- WhatsApp automation for sending bills and notifications<br>- School bell & timetable automation system<br>- Child safety software for monitoring and protection<br><br>👯 I’m looking to collaborate on<br>- Automation tools for businesses and schools<br>- Child safety & monitoring solutions<br>- WhatsApp API / messaging automation projects<br>- Practical Node.js backend projects<br><br>🤝 I’m looking for help with<br>- Scaling automation systems<br>- Child safety best practices & compliance<br>- Best practices for production-ready APIs<br>- Improving system performance and reliability<br><br>🌱 I’m currently learning<br>- Advanced Node.js & background services<br>- API integrations (WhatsApp Cloud API, REST APIs)<br>- Android APK concepts with backend integration<br>- Secure system design for child safety software<br><br>💬 Ask me about<br>- Inventory & billing software<br>- Business & school automation<br>- Child safety software concepts<br>- WhatsApp API automation<br>- Real-world software solutions<br><br>⚡ Fun fact<br>- I build software to solve real problems, not just demo projects<br>
 
-<p align="center">
-  <b>Automation Engineer • Business Software Builder • Problem Solver</b>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00E6FE&center=true&vCenter=true&width=800&lines=I+build+real-world+software;Automation+over+manual+work;Business+%26+School+Solutions;Node.js+%7C+APIs+%7C+Systems;Turning+ideas+into+working+products" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p_krushnapalsinh74) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkrushnapalsinh74@gmail.com) 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Automation-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20Daily-orange?style=flat-square" />
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krushnapalsinh74&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krushnapalsinh74&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapalsinh74&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=krushnapalsinh74&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- WHAT I BUILD -->
-<h2 align="center">🧠 What I Build</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🚀 Active Projects
-- 🧾 Inventory & Billing Systems  
-- 📲 WhatsApp Automation (Bills, Alerts, Messages)  
-- 🔔 School Bell & Timetable Automation  
-- 🛡️ Child Safety Software (Protection-focused)
-
-</td>
-<td width="50%">
-
-### 🎯 Problem Areas I Solve
-- Manual business operations  
-- Repetitive admin work  
-- Poor communication systems  
-- Lack of automation in schools & SMEs  
-
-</td>
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=krushnapalsinh74&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=krushnapalsinh74&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- COLLAB -->
-<h2 align="center">🤝 Open for Collaboration</h2>
-
-<p align="center">
-✔ Business & School Automation<br>
-✔ Child Safety & Monitoring Systems<br>
-✔ WhatsApp API & Messaging Automation<br>
-✔ Scalable Node.js Backend Projects
-</p>
-
----
-
-<!-- LEARNING -->
-<h2 align="center">🌱 Currently Leveling Up</h2>
-
-<p align="center">
-⚙️ Advanced Node.js & Background Jobs<br>
-🔗 API Architecture & Integrations<br>
-📱 Android APK + Backend Bridge Concepts<br>
-🔐 Secure & Ethical System Design
-</p>
-
----
-
-<!-- ASK ME -->
-<h2 align="center">💬 Ask Me About</h2>
-
-<p align="center">
-Inventory Systems • Billing Software • Automation Ideas<br>
-WhatsApp API • Business Tools • Real-World Deployments
-</p>
-
----
-
-<!-- FUN FACT -->
-<h2 align="center">⚡ Builder Philosophy</h2>
-
-<p align="center">
-<i>“I don’t build projects to show code.<br>
-I build systems that actually get used.”</i>
-</p>
-
----
-
-<!-- CONNECT -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://instagram.com/p_krushnapalsinh74">
-    <img src="https://img.shields.io/badge/Instagram-Connect-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:pkrushnapalsinh74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-<!-- TECH STACK -->
-<h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,java,kotlin,python,php,flutter,dart,nextjs,postgres,sqlite,firebase&perline=6" />
-</p>
-
----
-
-<!-- STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krushnapalsinh74&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnapalsinh74&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapalsinh74&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- TROPHIES -->
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krushnapalsinh74&theme=matrix&margin-w=15" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=krushnapalsinh74&icon=5&color=6" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
