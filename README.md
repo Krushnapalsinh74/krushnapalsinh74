@@ -21,7 +21,7 @@
 <!-- WHAT I BUILD -->
 <h2 align="center">🧠 What I Build</h2>
 
-<table align="center">
+<table align="center" width="100">
 <tr>
 <td width="50%">
 
