@@ -32,7 +32,7 @@
 - 🛡️ Child Safety Software (Protection-focused)
 
 </td>
-<td width="50%">
+<td width="100%">
 
 ### 🎯 Problem Areas I Solve
 - Manual business operations  
