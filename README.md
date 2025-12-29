@@ -50,10 +50,10 @@
 <h2 align="center">🤝 Open for Collaboration</h2>
 
 <p>
-✔ Business & School Autom..........🚀 Automation Solutions for Businesses & Educational Institutions<br>
-✔ Child Safety & Monitoring Systems<br>
-✔ WhatsApp API & Messaging Automation<br>
-✔ Scalable Node.js Backend Projects<br>
+✔ Business & School Autom....................🚀 Automation Solutions for Businesses & Educational Institutions<br>
+✔ Child Safety & Monitoring Systems ....................🛡️ Child Safety and Monitoring Tools<br>
+✔ WhatsApp API & Messaging Automation ....................💬 WhatsApp API Integrations & Messaging Workflows<br>
+✔ Scalable Node.js Backend Projects ....................⚡ High-Performance Node.js Backend Systems<br>
 
 </p>
 
