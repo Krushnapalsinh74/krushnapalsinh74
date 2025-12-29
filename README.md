@@ -49,7 +49,7 @@
 <!-- COLLAB -->
 <h2 align="center">🤝 Open for Collaboration</h2>
 
-<p align="center">
+<p>
 ✔ Business & School Automation<br>
 ✔ Child Safety & Monitoring Systems<br>
 ✔ WhatsApp API & Messaging Automation<br>
