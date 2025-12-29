@@ -1,19 +1,24 @@
-<!-- HERO SECTION -->
-<h1 align="center">👋 Hey, I’m Krushnapalsinh</h1>
+<!-- HERO SECTION (FIXED) -->
+<h2 align="center">👋 Hey, I’m Krushnapalsinh</h2>
 
 <p align="center">
-  <b>Automation Engineer • Business Software Builder • Problem Solver</b>
+  Automation Engineer • Business Software Builder • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00E6FE&center=true&vCenter=true&width=800&lines=I+build+real-world+software;Automation+over+manual+work;Business+%26+School+Solutions;Node.js+%7C+APIs+%7C+Systems;Turning+ideas+into+working+products" />
+  <span style="font-size:14px;">
+    Turning ideas into working products
+  </span>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Automation-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20Daily-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Automation-success?style=flat" />
+  <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-orange?style=flat" />
 </p>
+
+<hr/>
+
 
 ---
 
