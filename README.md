@@ -1,312 +1,153 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- HERO SECTION -->
+<h1 align="center">👋 Hey, I’m Krushnapalsinh</h1>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Krushnapalsinh Parmar Portfolio</title>
-    <style>
-        /* Reset and basic styling */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<p align="center">
+  <b>Automation Engineer • Business Software Builder • Problem Solver</b>
+</p>
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #0f111a;
-            color: #ffffff;
-            line-height: 1.6;
-            padding: 20px;
-            scroll-behavior: smooth;
-        }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Building+Real+World+Software;Automation+for+Business+%26+Schools;Child+Safety+Focused+Systems;Node.js+%7C+APIs+%7C+WhatsApp+Automation" />
 
-        a {
-            text-decoration: none;
-            color: inherit;
-        }
+</p>
 
-        h1,
-        h2,
-        h3 {
-            margin-bottom: 10px;
-        }
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Automation-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-orange?style=flat-square" />
+</p>
 
-        /* Hero Section */
-        .hero {
-            text-align: center;
-            padding: 40px 20px;
-        }
+---
 
-        .hero h1 {
-            font-size: 2.8rem;
-        }
+<!-- WHAT I BUILD -->
+<h2 align="center">🧠 What I Build</h2>
 
-        .hero p {
-            font-size: 1.2rem;
-            margin: 10px 0;
-            color: #cfd1d9;
-        }
+<table align="center" width="100">
+<tr>
+<td width="50%">
 
-        .typing-img {
-            margin: 20px auto;
-            display: block;
-            max-width: 90%;
-        }
+### 🚀 Active Projects
+- 🧾 Inventory & Billing Systems  
+- 📲 WhatsApp Automation (Bills, Alerts, Messages)  
+- 🔔 School Bell & Timetable Automation  
+- 🛡️ Child Safety Software (Protection-focused)
 
-        /* Badges */
-        .badges img {
-            margin: 5px;
-            transition: transform 0.3s;
-        }
+</td>
+<td width="100%">
 
-        .badges img:hover {
-            transform: scale(1.1);
-        }
+### 🎯 Problem Areas I Solve
+- Manual business operations  
+- Repetitive admin work  
+- Poor communication systems  
+- Lack of automation in schools & SMEs  
 
-        /* Sections */
-        section {
-            margin: 60px 0;
-            text-align: center;
-        }
+</td>
+</tr>
+</table>
 
-        table {
-            width: 80%;
-            margin: 20px auto;
-            border-collapse: collapse;
-        }
+---
 
-        td {
-            padding: 20px;
-            vertical-align: top;
-        }
+<!-- COLLAB -->
+<h2 align="center">🤝 Open for Collaboration</h2>
 
-        td h3 {
-            margin-bottom: 10px;
-        }
+<p align="center">
+✔ Business & School Autom....................🚀 Automation Solutions for Businesses & Educational Institutions<br>
+✔ Child Safety & Monitoring Systems ....................🛡️ Child Safety and Monitoring Tools<br>
+✔ WhatsApp API & Messaging Automation ....................💬 WhatsApp API Integrations & Messaging Workflows<br>
+✔ Scalable Node.js Backend Projects ....................⚡ High-Performance Node.js Backend Systems<br>
 
-        td ul {
-            list-style: none;
-        }
+</p>
 
-        td ul li {
-            margin-bottom: 8px;
-            position: relative;
-            padding-left: 20px;
-        }
+---
 
-        td ul li::before {
-            content: '•';
-            position: absolute;
-            left: 0;
-            color: #ff9800;
-        }
+<!-- LEARNING -->
+<h2 align="center">🌱 Currently Leveling Up</h2>
 
-        /* Connect Section */
-        .connect a {
-            margin: 10px;
-            display: inline-block;
-            transition: transform 0.3s;
-        }
+<p align="center">
+⚙️ Advanced Node.js & Background Jobs ....................⚙️ Mastering Node.js & Background Processing<br>
+🔗 API Architecture & Integrations ....................🔗 Designing APIs & Seamless Integrations<br>
+📱 Android APK + Backend Bridge Concepts ....................📱 Android APK Development + Backend Sync<br>
+🔐 Secure & Ethical System Design ....................🔐 Building Secure & Ethical Systems<br>
+</p>
 
-        .connect a:hover {
-            transform: scale(1.1);
-        }
+---
 
-        /* Tech stack */
-        .tech-stack img {
-            max-width: 80%;
-            margin: 10px 0;
-        }
+<!-- ASK ME -->
+<h2 align="center">💬 Ask Me About</h2>
 
-        /* GitHub stats */
-        .stats img {
-            max-width: 90%;
-            margin: 15px auto;
-            display: block;
-            border-radius: 10px;
-        }
+<p align="center">
+Inventory Systems • Billing Software • Automation Ideas • Inventory & Billing Systems • 
+Business Automation • Solutions WhatsApp API Integrations • Practical Software Deployments<br>
+WhatsApp API • Business Tools • Real-World Deployments • Smart Inventory & Billing Tools
+• Automation & Productivity Hacks
+• WhatsApp API Solutions
+• Hands-On Project Deployments<br>
+</p>
 
-        /* Builder Philosophy */
-        .philosophy {
-            font-style: italic;
-            color: #a0a0a0;
-            margin: 20px auto;
-        }
+---
 
-        /* Horizontal rules */
-        hr {
-            border: 1px solid #2c2f3a;
-            margin: 40px 0;
-        }
+<!-- FUN FACT -->
+<h2 align="center">⚡ Builder Philosophy</h2>
 
-        /* Responsive */
-        @media(max-width:768px) {
-            table {
-                width: 100%;
-                display: block;
-            }
+<p align="center">
+<i>“I don’t build projects to show code.<br>
+I build systems that actually get used.”</i>
+</p>
 
-            td {
-                display: block;
-                width: 100%;
-                margin-bottom: 20px;
-            }
+---
 
-            .hero h1 {
-                font-size: 2rem;
-            }
+<!-- CONNECT -->
+<h2 align="center">🌐 Connect With Me</h2>
 
-            .hero p {
-                font-size: 1rem;
-            }
-        }
-    </style>
-</head>
+<p align="center">
+  <a href="https://instagram.com/p_krushnapalsinh74">
+    <img src="https://img.shields.io/badge/Instagram-Connect-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:pkrushnapalsinh74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 
-<body>
+---
 
-    <!-- HERO SECTION -->
-    <section class="hero">
-        <h1>👋 Hey, I’m Krushnapalsinh</h1>
-        <p><b>Automation Engineer • Business Software Builder • Problem Solver</b></p>
-        <img class="typing-img"
-            src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Building+Real+World+Software;Automation+for+Business+%26+Schools;Child+Safety+Focused+Systems;Node.js+%7C+APIs+%7C+WhatsApp+Automation" />
-        <div class="badges">
-            <img src="https://img.shields.io/badge/Focus-Automation-success?style=flat-square" />
-            <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
-            <img src="https://img.shields.io/badge/Status-Building%20Daily-orange?style=flat-square" />
-        </div>
-    </section>
+<!-- TECH STACK -->
+<h2 align="center">🛠 Tech Stack</h2>
 
-    <hr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,kotlin,python,php,flutter,dart,nextjs,postgres,sqlite,firebase&perline=6" />
+</p>
 
-    <!-- WHAT I BUILD -->
-    <section>
-        <h2>🧠 What I Build</h2>
-        <table>
-            <tr>
-                <td>
-                    <h3>🚀 Active Projects</h3>
-                    <ul>
-                        <li>🧾 Inventory & Billing Systems</li>
-                        <li>📲 WhatsApp Automation (Bills, Alerts, Messages)</li>
-                        <li>🔔 School Bell & Timetable Automation</li>
-                        <li>🛡️ Child Safety Software</li>
-                    </ul>
-                </td>
-                <td>
-                    <h3>🎯 Problem Areas I Solve</h3>
-                    <ul>
-                        <li>Manual business operations</li>
-                        <li>Repetitive admin work</li>
-                        <li>Poor communication systems</li>
-                        <li>Lack of automation in schools & SMEs</li>
-                    </ul>
-                </td>
-            </tr>
-        </table>
-    </section>
+---
 
-    <hr>
+<!-- STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-    <!-- COLLAB -->
-    <section>
-        <h2>🤝 Open for Collaboration</h2>
-        <p class="connect">
-            ✔ Business & School Automation 🚀 Automation Solutions for Businesses & Educational Institutions<br>
-            ✔ Child Safety & Monitoring Systems 🛡️ Child Safety Tools<br>
-            ✔ WhatsApp API & Messaging Automation 💬 WhatsApp API Workflows<br>
-            ✔ Scalable Node.js Backend Projects ⚡ High-Performance Node.js Systems
-        </p>
-    </section>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krushnapalsinh74&show_icons=true&theme=tokyonight" />
+</p>
 
-    <hr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnapalsinh74&theme=tokyonight" />
+</p>
 
-    <!-- LEARNING -->
-    <section>
-        <h2>🌱 Currently Leveling Up</h2>
-        <p>
-            ⚙️ Advanced Node.js & Background Jobs ⚙️ Mastering Node.js & Background Processing<br>
-            🔗 API Architecture & Integrations 🔗 Designing APIs & Seamless Integrations<br>
-            📱 Android APK + Backend Bridge Concepts 📱 Android APK Development + Backend Sync<br>
-            🔐 Secure & Ethical System Design 🔐 Building Secure & Ethical Systems
-        </p>
-    </section>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapalsinh74&layout=compact&theme=tokyonight" />
+</p>
 
-    <hr>
+---
 
-    <!-- ASK ME -->
-    <section>
-        <h2>💬 Ask Me About</h2>
-        <p>
-            Inventory Systems • Billing Software • Automation Ideas • Business Automation • WhatsApp API Integrations •
-            Practical Software Deployments • Automation & Productivity Hacks • Smart Tools
-        </p>
-    </section>
+<!-- TROPHIES -->
+<h2 align="center">🏆 Achievements</h2>
 
-    <hr>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krushnapalsinh74&theme=matrix&margin-w=15" />
+</p>
 
-    <!-- FUN FACT -->
-    <section>
-        <h2>⚡ Builder Philosophy</h2>
-        <p class="philosophy">“I don’t build projects to show code. I build systems that actually get used.”</p>
-    </section>
+---
 
-    <hr>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
-    <!-- CONNECT -->
-    <section>
-        <h2>🌐 Connect With Me</h2>
-        <p class="connect">
-            <a href="https://instagram.com/p_krushnapalsinh74">
-                <img
-                    src="https://img.shields.io/badge/Instagram-Connect-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-            </a>
-            <a href="mailto:pkrushnapalsinh74@gmail.com">
-                <img
-                    src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-            </a>
-        </p>
-    </section>
-
-    <hr>
-
-    <!-- TECH STACK -->
-    <section class="tech-stack">
-        <h2>🛠 Tech Stack</h2>
-        <img
-            src="https://skillicons.dev/icons?i=js,nodejs,java,kotlin,python,php,flutter,dart,nextjs,postgres,sqlite,firebase&perline=6" />
-    </section>
-
-    <hr>
-
-    <!-- STATS -->
-    <section class="stats">
-        <h2>📊 GitHub Stats</h2>
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=krushnapalsinh74&show_icons=true&theme=tokyonight" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnapalsinh74&theme=tokyonight" />
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapalsinh74&layout=compact&theme=tokyonight" />
-    </section>
-
-    <hr>
-
-    <!-- TROPHIES -->
-    <section>
-        <h2>🏆 Achievements</h2>
-        <img src="https://github-profile-trophy.vercel.app/?username=krushnapalsinh74&theme=matrix&margin-w=15" />
-    </section>
-
-    <hr>
-
-    <section>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-        <img src="https://visitcount.itsvg.in/api?id=krushnapalsinh74&icon=5&color=6" />
-    </section>
-
-</body>
-
-</html>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=krushnapalsinh74&icon=5&color=6" />
+</p>"
