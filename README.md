@@ -62,7 +62,7 @@
 <!-- LEARNING -->
 <h2 align="center">🌱 Currently Leveling Up</h2>
 
-<p>
+<p align="center">
 ⚙️ Advanced Node.js & Background Jobs ....................⚙️ Mastering Node.js & Background Processing<br>
 🔗 API Architecture & Integrations ....................🔗 Designing APIs & Seamless Integrations<br>
 📱 Android APK + Backend Bridge Concepts ....................📱 Android APK Development + Backend Sync<br>
@@ -72,7 +72,7 @@
 ---
 
 <!-- ASK ME -->
-<h2>💬 Ask Me About</h2>
+<h2 align="center">💬 Ask Me About</h2>
 
 <p align="center">
 Inventory Systems • Billing Software • Automation Ideas • Inventory & Billing Systems • 
