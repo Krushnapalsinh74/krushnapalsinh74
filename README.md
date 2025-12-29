@@ -5,7 +5,7 @@
   <b>Automation Engineer • Business Software Builder • Problem Solver</b>
 </p>
 
-<p align="center">
+<p>
  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Building+Real+World+Software;Automation+for+Business+%26+Schools;Child+Safety+Focused+Systems;Node.js+%7C+APIs+%7C+WhatsApp+Automation" />
 
 </p>
