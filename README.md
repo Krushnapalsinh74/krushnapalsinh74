@@ -60,7 +60,7 @@
 ---
 
 <!-- LEARNING -->
-<h2>🌱 Currently Leveling Up</h2>
+<h2 align="center">🌱 Currently Leveling Up</h2>
 
 <p>
 ⚙️ Advanced Node.js & Background Jobs ....................⚙️ Mastering Node.js & Background Processing<br>
