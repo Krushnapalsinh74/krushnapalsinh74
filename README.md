@@ -133,21 +133,10 @@ I build systems that actually get used.”</i>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapalsinh74&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-<!-- TROPHIES -->
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krushnapalsinh74&theme=matrix&margin-w=15" />
-</p>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=krushnapalsinh74&icon=5&color=6" />
-</p>"
+
