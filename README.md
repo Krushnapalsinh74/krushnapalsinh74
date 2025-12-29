@@ -23,7 +23,7 @@
 
 <table align="center">
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 🚀 Active Projects
 - 🧾 Inventory & Billing Systems  
