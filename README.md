@@ -49,7 +49,7 @@
 <!-- COLLAB -->
 <h2 align="center">🤝 Open for Collaboration</h2>
 
-<p>
+<p align="center">
 ✔ Business & School Autom....................🚀 Automation Solutions for Businesses & Educational Institutions<br>
 ✔ Child Safety & Monitoring Systems ....................🛡️ Child Safety and Monitoring Tools<br>
 ✔ WhatsApp API & Messaging Automation ....................💬 WhatsApp API Integrations & Messaging Workflows<br>
